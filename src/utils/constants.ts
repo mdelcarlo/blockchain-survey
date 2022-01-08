@@ -1,0 +1,2 @@
+export const CONTRACT_ADDRESS = "0x74f0b668ea3053052deaa5eedd1815f579f0ee03";
+export const ONE_QUIZ = 1000000000000000000;
